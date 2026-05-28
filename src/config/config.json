@@ -1,0 +1,39 @@
+{
+    "mainUrl": "https://www.saucedemo.com/",
+    "mainHomePageUrl": "https://www.saucedemo.com/inventory.html",
+    "apiRestReqResUrl": "https://reqres.in/api/users",
+    "apiRestReqResApiKey": "free_user_3EJk67SbQfRFftZpXmJ41V2KBAP",
+    "apiRestJsonPlaceholderUrl": "https://jsonplaceholder.typicode.com/posts",
+    "defaultTimeout": 45000,
+    "dataTestPrefix": "data-test=",
+    "users": {
+        "standardUser": {
+            "username": "standard_user",
+            "password": "secret_sauce"
+        },
+        "lockedOutUser": {
+            "username": "locked_out_user",
+            "password": "secret_sauce"
+        },
+        "problemUser": {
+            "username": "problem_user",
+            "password": "secret_sauce"
+        },
+        "performanceGlitchUser": {
+            "username": "performance_glitch_user",
+            "password": "secret_sauce"
+        },
+        "errorUser": {
+            "username": "error_user",
+            "password": "secret_sauce"
+        },
+        "visualUser": {
+            "username": "visual_user",
+            "password": "secret_sauce"
+        },
+        "notExestingUser": {
+            "username": "NotExestingUser",
+            "password": "NotExestingUser"
+        }
+    }
+}
