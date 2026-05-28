@@ -1,0 +1,8 @@
+[
+    { "name": "morpheus", "job": "leader" },
+    { "name": "neo", "job": "chosen" },
+    { "name": "trinity", "job": "hacker" },
+    { "name": "smith", "job": "agent" },
+    { "name": "cypher", "job": "traitor" },
+    { "name": "oracle", "job": "prophet" }
+]
